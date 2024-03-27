@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 14513aaad1bfa354599fa79e34ad1790
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 08ef63a09214e7a4c84cc4f903c8c4c4
+  - enabled: 1
+    path: Assets/Scenes/Gigi'sPlayground.unity
+    guid: 3bf59c17ee47c9e4ab6639e9cd8d01ee
+  m_configObjects: {}
